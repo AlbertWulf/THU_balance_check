@@ -92,7 +92,7 @@ def check_water_electric(username:str,password:str,token_pushplus:str)->None:
         push_msg(token_pushplus,'水费余额不足','水费还剩余'+water_balance)
 
     return None
-username = '吴林峰'
-password = 'qhjy18800136325'
-token = 'f77cc5b306394b6f9aeb6b29a73706bd'
+username = ''
+password = ''
+token = ''
 check_water_electric(username=username,password=password,token_pushplus=token)
