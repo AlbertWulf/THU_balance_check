@@ -1,4 +1,5 @@
 # THU_balance_check
+Implemented based on Project[TsinghuaBills](https://github.com/ZenithalHourlyRate/thuservices/blob/master/aux/TsinghuaBills.py)
 ## Step One
 - install packages requirements
 ## Step Two
